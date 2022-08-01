@@ -13,10 +13,9 @@ Last Updated : 31 May 2014
  - Operating System: Windows 32 Bit
  - Compiler Used: Dev C++
  
- - Caution:
- - Game was compiled for 32-Bit windows, so it may not natively run on 64-bit platform
-
-# Instructions to use:
+ # Instructions to use:
  - Compile the code to generate the game binary
  - Use Arrow Keys to navigate the Snake and reach the food
  - Use SpaceBar key to accelerate the speed of Snake
+ 
+ Caution: Game was written for 32-Bit windows, so it may require addional effort to port on 64-bit platform
