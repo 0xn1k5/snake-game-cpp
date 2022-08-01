@@ -19,4 +19,4 @@ Last Updated : 31 May 2014
 # Instructions to use:
  - Compile the code to generate the game binary
  - Use Arrow Keys to navigate the Snake and reach the food
- - Use SpaceBar key to accelerate the speed of snake
+ - Use SpaceBar key to accelerate the speed of Snake
