@@ -1,10 +1,10 @@
-Name : Snake Game (Based on C++)
+**Name : Snake Game (Based on C++)**
 
-Author : Nikhil Raj ( nikhilraj149@gmail.com )
+**Author : Nikhil Raj ( Twitter: 0xn1k5 | Mail: nikhilraj149[@]gmail.com )**
 
-Version: 1.0
+**Version: 1.0**
 
-Last Updated : 31 May 2014
+**Last Updated : 31 May 2014**
 
 # Description
  CLI based Snake Game was created for fun during my induction Program with Tata Consultancy Services (TCS)
